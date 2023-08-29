@@ -3446,3 +3446,22 @@
 	}
 
 })(window.Zepto || window.jQuery, window, document);
+
+$( '.owl-carousel' ).owlCarousel({
+    items: 6,
+    nav: false,
+    dots: true,
+    mouseDrag: true,
+    responsiveClass: true,
+    responsive: {
+        0:{
+          items: 1
+        },
+        480:{
+          items: 2
+        },
+        769:{
+          items: 3
+        }
+    }
+});
