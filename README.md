@@ -1,3 +1,6 @@
+# SASS
+Ajustes no documento para realizar as atividades do módulo Sass
+
 # jQuery
 
 Simulação de um site de agência de viagens para o curso de Front-end da EBAC
